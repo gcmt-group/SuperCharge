@@ -1,6 +1,8 @@
 # SuperCharge
 A tool for merging or extending CHGCAR of VASP
 
+# Warning: SuperCharge.py has a little problem to be fixed, which has been removed temporarily.
+
 ## Introduction
 
 Three python scripts were included.
